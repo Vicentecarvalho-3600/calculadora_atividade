@@ -23,13 +23,14 @@ body {
 
 #minha-foto {
     width: 60px;
-    margin-top: 20px;
+    margin-top: 10px;
     border-radius: 30px;
     
 }
 
 h1 {
     text-align: center;
+    margin: 1px;
 }
 
 #resultado {
@@ -40,14 +41,45 @@ h1 {
     margin: 10px;
     border-radius: 5px;
     margin: 5px;
+    font-size: large;
+    font-weight: bold;
+    color: white;
 }
 
 .btn {
-    
     width: 80px;
     height: 80px;
-    margin: 7px;
+    margin: 6px;
     border: 5px solid #b15f1c;
     border-radius: 40px;
+    font-size: 30px ;
+    font-weight: bold;
 }
+
+.btn-laranja {
+    width: 80px;
+    height: 80px;
+    margin: 6px;
+    border: 5px solid #b15f1c;
+    border-radius: 40px;
+    font-size: 30px ;
+    font-weight: bold;
+    background-color: #b15f1c;
+}
+
+.btn-branco {
+    width: 80px;
+    height: 80px;
+    margin: 6px;
+    border: 5px solid whitesmoke;
+    border-radius: 40px;
+    font-size: 30px ;
+    font-weight: bold;
+    color: black;
+    background-color: whitesmoke;
+}
+
+
+
+
 
